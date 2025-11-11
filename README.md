@@ -62,8 +62,8 @@ The model predicts continued *seasonal fluctuation* with a mild long-term declin
 MIT License (Free to use & modify)
 
 📊 Coursework Project — Time Series Air Quality Forecasting
-Institute: National Institute of Business Management (NIBM), Sri Lanka
-Programme: Higher National Diploma in Data Science (HNDDS)
-Student: K.D.Senaya Amarasinghe.
+-Institute: National Institute of Business Management (NIBM), Sri Lanka
+-Programme: Higher National Diploma in Data Science (HNDDS)
+-Student: K.D.Senaya Amarasinghe.
 
 
